@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/fishwjy/VideoCompressor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ichtj/BaseIotUtils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\AS_WORK" />

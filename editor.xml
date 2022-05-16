@@ -10,6 +10,9 @@
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="LINE_SPACING" value="1.4" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
